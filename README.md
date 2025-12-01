@@ -4,7 +4,7 @@ Student Result Management System
 A Java-based console application that demonstrates exception handling, custom exceptions, input validation, and OOP concepts.
 The system allows adding students, validating marks, storing records, and displaying results with proper error handling.
 
-✨ Features
+*Features*
 
 Add a student with roll number, name, and marks
 
@@ -16,7 +16,7 @@ Determines Pass/Fail
 
 View student details using roll number
 
-Handles:
+*Handles*:
 
 InvalidMarksException
 
@@ -26,7 +26,7 @@ IllegalArgumentException
 
 Other runtime errors
 
-🛠️ Technologies Used
+*Technologies Used*
 
 Java
 
@@ -36,6 +36,6 @@ Custom Exceptions
 
 Exception Handling
 
-👩‍💻 Author
+*Author*
 
 Anjali Tomar
